@@ -28,7 +28,7 @@ yarn install
 ## Support
 
 In case of any questions or problems, please contact me at:
-[galaxy126a@gmail.com](mailto:galaxy126a@gmail.com)
+[moritaamaya0711@gmail.com](moritaamaya0711@gmail.com)
 
 ### Happy Coding 🚀
 
